@@ -1,0 +1,6 @@
+success: 2023/08/17 00:30:33 main.go:24: test 1
+success: 2023/08/17 00:30:33 main.go:25: test 2
+success: 2023/08/17 00:30:33 main.go:26: test 3
+errors: 2023/08/17 00:30:33 main.go:29: test 1
+errors: 2023/08/17 00:30:33 main.go:30: test 2
+errors: 2023/08/17 00:30:33 main.go:31: test 3

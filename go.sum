@@ -1,0 +1,4 @@
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/ncostamagna/go_course_my_package v0.0.2 h1:rAO/ZAFkK/IQ20exborwsnNaM9vMWpUKheMP1bHFfWM=
+github.com/ncostamagna/go_course_my_package v0.0.2/go.mod h1:pso9cIgJrbbWkrYlYGOP1TfGvNxAA4ofcbFCYZFmiY0=
